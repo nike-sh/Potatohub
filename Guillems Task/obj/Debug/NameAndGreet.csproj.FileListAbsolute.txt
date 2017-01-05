@@ -1,0 +1,5 @@
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\Guillems Task\bin\Debug\Guillems Task.exe.config
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\Guillems Task\obj\Debug\Guillems Task.exe
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\Guillems Task\obj\Debug\Guillems Task.pdb
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\Guillems Task\bin\Debug\Guillems Task.exe
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\Guillems Task\bin\Debug\Guillems Task.pdb

@@ -1,0 +1,5 @@
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\AreaOfShapeCalculator\bin\Debug\AreaOfShapeCalculator.exe.config
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\AreaOfShapeCalculator\bin\Debug\AreaOfShapeCalculator.exe
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\AreaOfShapeCalculator\bin\Debug\AreaOfShapeCalculator.pdb
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\AreaOfShapeCalculator\obj\Debug\AreaOfShapeCalculator.exe
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\AreaOfShapeCalculator\obj\Debug\AreaOfShapeCalculator.pdb

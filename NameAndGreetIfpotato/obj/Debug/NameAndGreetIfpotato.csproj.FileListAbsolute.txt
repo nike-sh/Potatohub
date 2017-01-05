@@ -1,0 +1,6 @@
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\NameAndGreetIfpotato\bin\Debug\NameAndGreetIfpotato.exe.config
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\NameAndGreetIfpotato\bin\Debug\NameAndGreetIfpotato.exe
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\NameAndGreetIfpotato\bin\Debug\NameAndGreetIfpotato.pdb
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\NameAndGreetIfpotato\obj\Debug\NameAndGreetIfpotato.csprojResolveAssemblyReference.cache
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\NameAndGreetIfpotato\obj\Debug\NameAndGreetIfpotato.exe
+c:\users\ntailo\documents\visual studio 2015\Projects\Guillems Task\NameAndGreetIfpotato\obj\Debug\NameAndGreetIfpotato.pdb

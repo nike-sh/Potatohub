@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameAndGreet", "Guillems Task\NameAndGreet.csproj", "{4D9B7091-4C98-4C0A-9373-716C0198151A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NameAndGreetIfpotato", "NameAndGreetIfpotato\NameAndGreetIfpotato.csproj", "{F91D6F74-2FEB-4C78-8224-E797F0EC73E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lastNameCount", "lastNameCount\lastNameCount.csproj", "{451999A5-A698-4482-A1AB-37ADE67F35C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonthPrinter", "MonthPrinter\MonthPrinter.csproj", "{B05982FF-2032-413B-B95D-D7A0B6AEF01C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfShapeCalculator", "AreaOfShapeCalculator\AreaOfShapeCalculator.csproj", "{EAD64EEE-D40E-41DE-8F4A-CF56CCA7B1A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimesTables", "TimesTables\TimesTables.csproj", "{3762C12A-D0DB-4FFD-98DF-BC9D7864D45F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenOrOdd", "EvenOrOdd\EvenOrOdd.csproj", "{260D7558-6EA5-4CD8-8E80-539C746B0F00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D9B7091-4C98-4C0A-9373-716C0198151A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D9B7091-4C98-4C0A-9373-716C0198151A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D9B7091-4C98-4C0A-9373-716C0198151A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D9B7091-4C98-4C0A-9373-716C0198151A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91D6F74-2FEB-4C78-8224-E797F0EC73E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91D6F74-2FEB-4C78-8224-E797F0EC73E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91D6F74-2FEB-4C78-8224-E797F0EC73E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91D6F74-2FEB-4C78-8224-E797F0EC73E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{451999A5-A698-4482-A1AB-37ADE67F35C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{451999A5-A698-4482-A1AB-37ADE67F35C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{451999A5-A698-4482-A1AB-37ADE67F35C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{451999A5-A698-4482-A1AB-37ADE67F35C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B05982FF-2032-413B-B95D-D7A0B6AEF01C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B05982FF-2032-413B-B95D-D7A0B6AEF01C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B05982FF-2032-413B-B95D-D7A0B6AEF01C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B05982FF-2032-413B-B95D-D7A0B6AEF01C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAD64EEE-D40E-41DE-8F4A-CF56CCA7B1A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD64EEE-D40E-41DE-8F4A-CF56CCA7B1A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD64EEE-D40E-41DE-8F4A-CF56CCA7B1A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD64EEE-D40E-41DE-8F4A-CF56CCA7B1A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3762C12A-D0DB-4FFD-98DF-BC9D7864D45F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3762C12A-D0DB-4FFD-98DF-BC9D7864D45F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3762C12A-D0DB-4FFD-98DF-BC9D7864D45F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3762C12A-D0DB-4FFD-98DF-BC9D7864D45F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{260D7558-6EA5-4CD8-8E80-539C746B0F00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{260D7558-6EA5-4CD8-8E80-539C746B0F00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{260D7558-6EA5-4CD8-8E80-539C746B0F00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{260D7558-6EA5-4CD8-8E80-539C746B0F00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\TimesTables\bin\Debug\TimesTables.exe.config
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\TimesTables\bin\Debug\TimesTables.exe
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\TimesTables\bin\Debug\TimesTables.pdb
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\TimesTables\obj\Debug\TimesTables.exe
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\TimesTables\obj\Debug\TimesTables.pdb
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\TimesTables\obj\Debug\TimesTables.csprojResolveAssemblyReference.cache

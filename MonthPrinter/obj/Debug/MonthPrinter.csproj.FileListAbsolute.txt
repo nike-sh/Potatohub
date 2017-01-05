@@ -1,0 +1,6 @@
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\MonthPrinter\bin\Debug\MonthPrinter.exe.config
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\MonthPrinter\bin\Debug\MonthPrinter.exe
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\MonthPrinter\bin\Debug\MonthPrinter.pdb
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\MonthPrinter\obj\Debug\MonthPrinter.csprojResolveAssemblyReference.cache
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\MonthPrinter\obj\Debug\MonthPrinter.exe
+C:\Users\ntailo\documents\visual studio 2015\Projects\Guillems Task\MonthPrinter\obj\Debug\MonthPrinter.pdb
